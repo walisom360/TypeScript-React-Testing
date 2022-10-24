@@ -1,10 +1,10 @@
 React testing applicaton
 
-testing Basic components
-testing multiple elements
-testing event handler
-testing state hooks
-testing async hooks
-testing simple custom hooks
-testing async custom hooks
-testing zustand components
+testing Basic components<br />
+testing multiple elements<br />
+testing event handler<br />
+testing state hooks<br />
+testing async hooks<br />
+testing simple custom hooks<br />
+testing async custom hooks<br />
+testing zustand components<br />
